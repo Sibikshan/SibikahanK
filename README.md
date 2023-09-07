@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sibikshan K</h1>
 <h3 align="center">Student</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.take-off-net.at%2Frobot-gif&psig=AOvVaw1NGqqIGMXyH9d5M_0Lk3Uy&ust=1694166358632000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC4ndKbmIEDFQAAAAAdAAAAABAJ")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.take-off-net.at%2Frobot-gif&psig=AOvVaw1NGqqIGMXyH9d5M_0Lk3Uy&ust=1694166358632000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLC4ndKbmIEDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibikshan&label=Profile%20views&color=0e75b6&style=flat" alt="sibikshan" /> </p>
 
